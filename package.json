@@ -1,0 +1,17 @@
+
+{
+  "name": "practical-work-3",
+  "version": "1.0.0",
+  "description": "Practical work 3 - TypeScript Generics, Decorators and Utility Types",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
